@@ -2438,3 +2438,4 @@ return view('sale.invoice', compact(
         return Redirect::to($url)->with('not_permitted', $message);
     }
 }
+
