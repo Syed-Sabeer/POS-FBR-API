@@ -1,0 +1,1917 @@
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-21 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP36596244","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-15 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP40555282","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 152404DLLP40555282
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP41459124","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 152404DLLP40555282
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP41587764","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 152404DLLP40555282
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP42140480","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 152404DLLP40555282
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP41592825","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 152404DLLP40555282
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP4233297","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"fault":{"code":900901,"message":"Invalid Credentials","description":"Access failure for API: /imsp/v1, version: v1 status: (900901) - Invalid Credentials. Make sure you have given the correct access token"}}
+    [HTTP Code] => 401
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"fault":{"code":900901,"message":"Invalid Credentials","description":"Access failure for API: /imsp/v1, version: v1 status: (900901) - Invalid Credentials. Make sure you have given the correct access token"}}
+    [HTTP Code] => 401
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"fault":{"code":900901,"message":"Invalid Credentials","description":"Access failure for API: /imsp/v1, version: v1 status: (900901) - Invalid Credentials. Make sure you have given the correct access token"}}
+    [HTTP Code] => 401
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP42129028","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => {"InvoiceNumber":"152404DLLP42253677","Code":"100","Response":"Invoice received successfully"}
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLLP47487633
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLLQ29195693
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLLQ2974286
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLLQ2988562
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO049612
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO31542139
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32144902
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32155636
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32140182
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32155670
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32157458
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32153046
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32150248
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32167690
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32161478
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32160837
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO32235593
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO35101398
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO38481980
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMO48324049
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP0509628
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP3320641
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-12-12 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP3366688
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-11-11 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP8459346
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-11-11 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP8449499
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-11-11 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP8443856
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
+Array
+(
+    [Request URL] => https://gw.fbr.gov.pk/imsp/v1/api/Live/PostData
+    [Request Data] => Array
+        (
+            [InvoiceNumber] => 
+            [POSID] => 152404
+            [USIN] => USIN0
+            [DateTime] => 2024-11-11 12:00:00
+            [BuyerNTN] => 1234567-8
+            [BuyerCNIC] => 12345-1234567-8
+            [BuyerName] => Syed Sabeer Tester
+            [BuyerPhoneNumber] => 0000-0000000
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [ItemCode] => IT_1011
+                            [ItemName] => Test Item
+                            [Quantity] => 1
+                            [PCTCode] => 11001010
+                            [TaxRate] => 0
+                            [SaleValue] => 0
+                            [TotalAmount] => 3000
+                            [TaxCharged] => 0
+                            [Discount] => 0
+                            [FurtherTax] => 0
+                            [InvoiceType] => 1
+                            [RefUSIN] => 
+                        )
+
+                )
+
+            [TotalBillAmount] => 1
+            [TotalQuantity] => 1
+            [TotalSaleValue] => 1
+            [TotalTaxCharged] => 1
+            [PaymentMode] => 2
+            [InvoiceType] => 1
+        )
+
+    [Response] => Array
+        (
+            [InvoiceNumber] => 152404DLMP8454586
+            [Code] => 100
+            [Response] => Invoice received successfully
+        )
+
+    [HTTP Code] => 200
+    [Error (if any)] => 
+)
